@@ -1,0 +1,16 @@
+:root {
+    --bg-body: #957DAD;
+    --bg-content: #dfd1ec;
+    --bg-hover: #f4f4f4;
+
+    --color-txt: #0c306e;
+
+    --nav-height: 70px;
+
+    --shadow: 0 0 30px 0 rgb(82 63 105 / 5%);
+}
+
+.labels {
+    font-size: 11px
+}
+
